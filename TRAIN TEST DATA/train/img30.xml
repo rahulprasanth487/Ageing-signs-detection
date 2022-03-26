@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Puffy eyes labelled by sowbarnigaa</folder>
+	<filename>img30.jpg</filename>
+	<path>C:\Users\rascal\Downloads\Data Set-20210620T163100Z-001\Data Set\PUFFY EYES\Puffy eyes labelled by sowbarnigaa\img30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PUFFY_EYES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>75</ymin>
+			<xmax>105</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PUFFY_EYES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>70</ymin>
+			<xmax>259</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WRINKLES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>4</ymin>
+			<xmax>108</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Puffy eyes by Anubhav</folder>
+	<filename>download.jpg</filename>
+	<path>C:\Users\rascal\Downloads\Data Set-20210620T163100Z-001\Data Set\PUFFY EYES\Puffy eyes by Anubhav\download.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PUFFY_EYES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>28</ymin>
+			<xmax>288</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

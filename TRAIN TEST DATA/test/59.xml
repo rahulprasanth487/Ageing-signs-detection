@@ -1,0 +1,26 @@
+<annotation>
+	<folder>puffyeyes</folder>
+	<filename>59.jpg</filename>
+	<path>F:\data\puffyeyes\59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PUFFY_EYES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>81</ymin>
+			<xmax>192</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

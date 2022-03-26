@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PUFFYEYES</folder>
+	<filename>image (2).jpg</filename>
+	<path>C:\Users\rascal\Downloads\Data Set-20210620T163100Z-001\Data Set\PUFFY EYES\Puffy eyes xml by mugilan\PUFFYEYES\image (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PUFFY_EYES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>16</ymin>
+			<xmax>208</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>puffy eyes DataSet by Prakash</folder>
+	<filename>image (17).jpg</filename>
+	<path>D:\puffy eyes DataSet by Prakash\image (17).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PUFFY_EYES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>40</ymin>
+			<xmax>211</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
